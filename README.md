@@ -75,6 +75,8 @@ The following Python libraries and tools were utilized:
 - Significant attribute combinations, such as **Attribute 2 + Attribute 8**, led to the highest combined costs (51.0 units).
 - Other high-cost combinations included **Attribute 2 + Attribute 4 (49.0 units)** and **Attribute 4 + Attribute 1 (40.8 units)**.
 
+![image](https://github.com/user-attachments/assets/33437983-b957-4d1a-a8c1-d1a630e11662)
+
 #### Predictive Modeling Results
 
 - **Model**: A Random Forest Regressor achieved a **test accuracy of 29.7%**.
@@ -87,11 +89,17 @@ The following Python libraries and tools were utilized:
 
 Below is an example of the visual analysis performed during the project:
 
-![Mean Total Claim Cost by Attribute 1](image.png)
+![image](https://github.com/user-attachments/assets/17914ef3-a75e-43d3-9ceb-6a449879adce)
+
 
 This bar graph shows the **mean total claim cost by Attribute 1**, with clear peaks indicating specific attribute options leading to higher costs.
 
 ---
+![image](https://github.com/user-attachments/assets/960e3378-7968-423f-9bd2-40957c422aa4)
+**mean total claim cost by Attribute 2**
+
+![image](https://github.com/user-attachments/assets/0158ff67-98ed-44cf-9317-ea28877902d6)
+**mean total claim cost by Attribute 8**
 
 ## Recommendations
 
