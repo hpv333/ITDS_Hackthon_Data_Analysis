@@ -115,5 +115,7 @@ Based on our analysis, we recommend the following:
 
 This project was an incredible journey of **collaboration and innovation**. A special thanks to **Sourav Chatterjee, PhD**, and the organizing committee for providing such a great platform to learn, collaborate, and showcase our skills.
 
-If you have any questions or need further insights, feel free to reach out!
+Feel free to reach out to us!
+https://www.linkedin.com/in/haripriyav3/
+
 
