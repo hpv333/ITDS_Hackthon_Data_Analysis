@@ -68,6 +68,8 @@ The following Python libraries and tools were utilized:
 
 - **Significant Attributes**: Attributes such as Attribute 4, Attribute 3, and Attribute 1 were strongly associated with increased warranty costs.
 
+![image](https://github.com/user-attachments/assets/0a9636a7-caad-41c1-90ac-1019a7e0233f) 
+
 #### Attribute Pair Interactions
 
 - Significant attribute combinations, such as **Attribute 2 + Attribute 8**, led to the highest combined costs (51.0 units).
